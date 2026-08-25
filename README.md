@@ -1,3 +1,6 @@
 # domain-list
-- scenecore.life
+- https://scenecore.life
 - cutelittle.baby
+- cutlust.lol
+- nomnomcat.lol
+- nomnomnom.xyz
